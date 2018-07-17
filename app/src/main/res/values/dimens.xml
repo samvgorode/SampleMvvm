@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="categories_row_bottom_margin">88dp</dimen>
+    <dimen name="categories_row_top_margin">48dp</dimen>
+    <dimen name="content_list_margin_start">90dp</dimen>
+    <dimen name="application_card_width">333dp</dimen>
+    <dimen name="application_card_height">187dp</dimen>
+    <dimen name="application_card_descr_height">71dp</dimen>
+</resources>
