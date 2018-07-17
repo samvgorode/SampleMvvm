@@ -6,7 +6,7 @@
         <import type="android.view.View" />
         <variable
             name="vm"
-            type="com.epuzzle.epuzzlemvvm.ui.main.MainActivityViewModel" />
+            type="com.example.mvvm.ui.main.MainActivityViewModel" />
     </data>
 
     <RelativeLayout
